@@ -24,7 +24,8 @@
     "homepage": "https://github.com/Grizz0o0/nodejs_block#readme",
     "dependencies": {
         "express": "^4.18.2",
-        "express-handlebars": "^7.0.6"
+        "express-handlebars": "^7.0.6",
+        "mongoose": "^7.0.3"
     },
     "devDependencies": {
         "morgan": "^1.10.0",
